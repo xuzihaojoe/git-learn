@@ -1,1 +1,1 @@
-const joejoe = 'haishi wode wnj joe'
+const joejoe = 'haishi wode wnj joe const d = \'xuzihao\''

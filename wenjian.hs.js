@@ -1,4 +1,5 @@
 const zhe = 'huashuo'
 const joe2 = 'this is joe2 content'
 const zhe = 'huashuo ' + '我是话说2'
+const d = 'xuzihao'
 const huashuo2 = '我是华硕2222哈哈哈哈'
