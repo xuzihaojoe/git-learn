@@ -1,6 +1,7 @@
 const aa = 10
 const dd = 20
 const joexu = 'joexu'
+const joexu2 = 'joexu2'
 const joe2222 = '不要删除我这个我是需要的'
 const aahuashuo2 = 100
 const version = 0.1
